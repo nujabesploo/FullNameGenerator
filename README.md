@@ -1,4 +1,4 @@
-# 🎭 The Name Weaver
+# 🎭 FullNameGenerator
 
 > *Like a master craftsman weaving threads into a tapestry, this Java application artfully combines the pieces of your name into a harmonious whole.*
 
