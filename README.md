@@ -14,7 +14,7 @@
 <img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/image.png?raw=true" alt="Input Example" width="400"/>
   
 - Final Result 
-<img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/image.png?raw=true" alt="Welcome Screen" width="400"/>
+<img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/image.png?raw=true" alt="Final Result" width="400"/>
 
 
 ## 🌟 What's This Magic?
