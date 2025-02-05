@@ -55,15 +55,4 @@ Think of it as a name barista - it takes your raw ingredients (name parts) and c
 - Business cards that demand perfection
 - Anyone who wants their name to look as awesome as they are!
 
-## 👨‍💻 Author
 
-[Your Name] - *Name Weaving Artisan*
-
-## 📜 License
-
-This masterpiece is licensed under the MIT License - because sharing is caring! 
-
----
-*Remember: A well-formatted name is like a well-tied necktie - it shows attention to detail! ✨*
-
-Feel free to copy and paste this into your README.md file! Just remember to replace [Your Name] with your actual name. The emojis and playful analogies make it more engaging while still maintaining professionalism and clear documentation.
