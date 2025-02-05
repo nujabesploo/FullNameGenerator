@@ -2,6 +2,12 @@
 
 > *Like a master craftsman weaving threads into a tapestry, this Java application artfully combines the pieces of your name into a harmonious whole.*
 
+
+📸 Project Screenshots
+<img src="screenshots/welcome-screen.png" alt="Welcome Screen" width="400"/>
+<img src="screenshots/input-example.png" alt="Input Example" width="400"/>
+<img src="screenshots/final-result.png" alt="Final Result" width="400"/>
+
 ## 🌟 What's This Magic?
 
 Imagine your name as a puzzle - each piece has its place, but arranging them properly is an art. The Name Weaver takes your name components and, like a skilled conductor orchestrating a symphony, arranges them into a perfect composition.
