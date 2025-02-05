@@ -4,7 +4,7 @@
 
 
 📸 Project Screenshots
-<img src="screenshots/welcome-screen.png" alt="Welcome Screen" width="400"/>
+<img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/FullNameGenerator/image.png?raw=true" alt="Welcome Screen" width="400"/>
 <img src="screenshots/input-example.png" alt="Input Example" width="400"/>
 <img src="screenshots/final-result.png" alt="Final Result" width="400"/>
 
