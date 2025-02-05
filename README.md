@@ -6,15 +6,14 @@
 📸 Project Screenshots
 
 ## Full Name Application
-
 - Welcome Screen
-<img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/FullNameGenerator/image.png?raw=true" alt="Welcome Screen" width="400"/>
+<img src="https://github.com/user-attachments/assets/a7f76902-1234-4c20-a069-437b7808128f" alt="Final Result" width="500"/>
 
-- Input Example 
-<img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/image.png?raw=true" alt="Input Example" width="400"/>
-  
-- Final Result 
-<img src="https://github.com/nujabesploo/FullNameGenerator/blob/main/image.png?raw=true" alt="Final Result" width="400"/>
+- Input Example
+<img src="https://github.com/user-attachments/assets/932355de-c1ab-4947-a112-7e3fc708b804" alt="Input Example" width="500"/>
+
+- Final Result
+<img src="https://github.com/user-attachments/assets/ea4f760c-f62e-46fe-95a5-18249b49096b" alt="Welcome Screen" width="500"/>
 
 
 ## 🌟 What's This Magic?
